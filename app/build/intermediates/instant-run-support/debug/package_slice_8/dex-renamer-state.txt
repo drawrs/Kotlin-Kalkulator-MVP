@@ -1,0 +1,4 @@
+#Mon Aug 28 05:56:29 WIB 2017
+base.0=/home/khilman/Documents/training-minggu-kedua/KalkulatorMVP/app/build/intermediates/transforms/dexMerger/debug/8
+renamed.0=classes.dex
+file.0=/home/khilman/Documents/training-minggu-kedua/KalkulatorMVP/app/build/intermediates/transforms/dexMerger/debug/8/classes.dex
