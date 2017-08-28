@@ -1,5 +1,5 @@
 # Kotlin-Kalkulator-MVP
-
+Aplikasi kalkulator ini di buat dengan metode Model View Presenter (MVP) menggunakan bahasa Kotlin
 
 <h1>Screen shot Aplikasi</h1>
 <a href="https://ibb.co/ghNXhQ"><img src="https://preview.ibb.co/eHVw95/photo_2017_08_28_06_21_39_2.jpg" alt="photo_2017_08_28_06_21_39_2" border="0"></a>
